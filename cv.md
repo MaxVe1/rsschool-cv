@@ -1,5 +1,5 @@
-#Maksim Vialesik  
-##Contacts  
+<h1>Maksim Vialesik</h1>  
+<h2>Contacts  </h2>
 <ul>
   <li>   <strong> Telegram:</strong> emvi11
   <li>   <strong> Email:</strong>  emvi@tut.by 
@@ -14,7 +14,7 @@
 <li>googling and asking the right questions (it's really important)
 <li>problem-solving
 <li>explaing difficult concept to others more simply
-<h2>Tech Skills</h2>
+<h2>Tech Skills</h2><br>
   <strong> General:</strong>
   <ul>
   <li> HTML5
