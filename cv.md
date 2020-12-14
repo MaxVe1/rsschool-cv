@@ -1,5 +1,5 @@
-<h1>Maksim Vialesik</h1>
-<h2>Contacts </h2>
+#Maksim Vialesik  
+##Contacts  
 <ul>
   <li>   <strong> Telegram:</strong> emvi11
   <li>   <strong> Email:</strong>  emvi@tut.by 
@@ -15,3 +15,17 @@
 <li>problem-solving
 <li>explaing difficult concept to others more simply
 <h2>Tech Skills</h2>
+  <strong> General:</strong>
+  <ul>
+  <li> HTML5
+  <li> CSS / Sass / Scss
+  <li> Basic JavaScript / JQuery
+  <li> npm
+  <li> Git / GitHub
+    <strong> Some Concepts:</strong>
+  <ul>
+  <li> OOP (Java / C# / PHP)
+ <li>Databases (MySQL)
+<li>Pug
+<li>yarn
+<li>React
