@@ -4,7 +4,7 @@
   <li>   <strong> Telegram:</strong> emvi11
   <li>   <strong> Email:</strong>  emvi@tut.by 
   <li>   <strong> Skype:</strong>  emvi11 
-  <li>   <strong> VK:</strong>  vk.com/maxve1
+  <li>   <strong> VK:</strong>  vk.com/maxve1</li>
  <h2>About Me</h2>
  I'm an aspiring self-taught Junior Frontend Developer, who potentially wants to become a Fullstack Developer
  <h2>Soft Skills</h2> 
@@ -22,10 +22,12 @@
   <li> Basic JavaScript / JQuery
   <li> npm
   <li> Git / GitHub
-    <strong> Some Concepts:</strong>
+  </ul>
+  <strong> Some Concepts:</strong>
   <ul>
   <li> OOP (Java / C# / PHP)
- <li>Databases (MySQL)
-<li>Pug
-<li>yarn
-<li>React
+  <li>Databases (MySQL)
+  <li>Pug
+  <li>yarn
+  <li>React
+  </ul>
